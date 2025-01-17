@@ -8,3 +8,5 @@ while int(x)<=10:
     multiplicacion=int(num)*x
     print("{} X {} = {}".format(num,x,multiplicacion) )
     x=x+1
+    
+    
