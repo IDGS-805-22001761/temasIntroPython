@@ -9,4 +9,3 @@ while int(x)<=10:
     print("{} X {} = {}".format(num,x,multiplicacion) )
     x=x+1
     
-    

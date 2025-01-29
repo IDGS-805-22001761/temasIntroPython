@@ -1,3 +1,14 @@
-Una línea con texto
-Otra línea con texto
-Esto es una nueva línea de texto
+
+
+
+El total a pagar es: 10.8
+bran Gracias por su compra
+
+El total a pagar es: 24
+yan Gracias por su compra
+
+El total a pagar es: 21.6
+pedro Gracias por su compra
+
+El total a pagar es: 91.8
+juan Gracias por su compra

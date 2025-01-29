@@ -59,3 +59,15 @@ for x in range(tamanio):
 print("Lista completa: {}".format(lista6))
 print("Numeros pares: {}".format(listaPares))
 print("Numeros impares: {}".format(listaImpares))
+
+lista1.sort() #ordenar lista
+print(lista1)
+lista1.reverse()#invertir lista
+print(lista1)
+
+lista1.remove(10)#eliminar un elemento de la lista
+print(lista1)
+
+lista1.clear()#limpiar lista
+print(lista1)
+
